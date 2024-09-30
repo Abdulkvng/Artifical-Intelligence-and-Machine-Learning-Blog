@@ -1,5 +1,5 @@
 
-# Exploring the World of Artificial Intelligene and Machine Learning Blog:  https://uscwebdev.github.io/itp104-submissions-Abdulkvng/finalprojectitp/final.html
+# Exploring the World of Artificial Intelligene and Machine Learning:  https://uscwebdev.github.io/itp104-submissions-Abdulkvng/finalprojectitp/final.html
 
 
 # 🤖 Welcome to the AI & ML Beginner's Blog! 🧠✨
