@@ -172,15 +172,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 Have questions, suggestions, or just want to say hello? We'd love to hear from you!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** [abdulkvng@gmail.com)
 
-Stay connected and join our journey into the world of AI and ML! 🤗✨
-
----
-
-![Footer Image](https://your-image-url.com/footer.png)
 
 ---
 
