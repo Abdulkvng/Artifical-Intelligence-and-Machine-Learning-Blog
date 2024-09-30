@@ -1,6 +1,5 @@
 
-# BLOG: 
-# https://uscwebdev.github.io/itp104-submissions-Abdulkvng/finalprojectitp/final.html
+# BLOG:  https://uscwebdev.github.io/itp104-submissions-Abdulkvng/finalprojectitp/final.html
 
 
 # 🤖 Welcome to the AI & ML Beginner's Blog! 🧠✨
