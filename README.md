@@ -1,5 +1,5 @@
 
-# Exploring the World of Artificial Intelligene and Machine Learning: 
+# Exploring the World of Artificial Intelligence and Machine Learning: 
 
 # View blog here -> https://uscwebdev.github.io/itp104-submissions-Abdulkvng/finalprojectitp/final.html
 
